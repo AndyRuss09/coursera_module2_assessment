@@ -186,7 +186,10 @@
 				.col-mob-7, .col-mob-8, .col-mob-9, .col-mob-10, .col-mob-11, .col-mob-12{	
 			
 			float: left;
+			margin-left: 4%;
+			margin-right: 4%;
 			margin-bottom: 2%;
+
 
 
 		}
